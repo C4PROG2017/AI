@@ -4,3 +4,11 @@ This is the repository for the 2017 Artificial Intelligence Units. You will only
 
 
 hi i win
+
+Git Commands
+
+git status
+git add .
+git commit -m "desc"
+git push
+
