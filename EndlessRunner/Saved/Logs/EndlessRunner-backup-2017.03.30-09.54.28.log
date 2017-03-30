@@ -1,0 +1,1070 @@
+﻿Log file open, 03/30/17 08:23:09
+LogInit:Display: Running engine for game: EndlessRunner
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-2104279744) SRandInit(-2104279743).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.067160
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.29-21.23.09:860][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.29-21.23.09:860][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.29-21.23.09:932][  0]LogInit: Computer: FWB5V72
+[2017.03.29-21.23.09:932][  0]LogInit: User: D201360499
+[2017.03.29-21.23.09:932][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.29-21.23.09:932][  0]LogInit: High frequency timer resolution =3.328123 MHz
+[2017.03.29-21.23.09:933][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.03.29-21.23.09:933][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.29-21.23.09:933][  0]LogMemory: Process Physical Memory: 256.95 MB used, 256.95 MB peak
+[2017.03.29-21.23.09:933][  0]LogMemory: Process Virtual Memory: 259.89 MB used, 259.89 MB peak
+[2017.03.29-21.23.09:933][  0]LogMemory: Physical Memory: 4720.13 MB used, 16288.05 MB total
+[2017.03.29-21.23.09:933][  0]LogMemory: Virtual Memory: 622.95 MB used, 134217728.00 MB total
+[2017.03.29-21.23.09:964][  0]LogTextLocalizationManager: No specific translations for ('en-AU') exist, so ('en') translations will be used.
+[2017.03.29-21.23.10:447][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.29-21.23.10:473][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 745' (Feature Level 11_0)
+[2017.03.29-21.23.10:473][  0]LogD3D11RHI:       4035/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.03.29-21.23.10:480][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2017.03.29-21.23.10:480][  0]LogD3D11RHI:       128/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.03.29-21.23.10:481][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.29-21.23.10:481][  0]LogD3D11RHI:       0/0/8144 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.29-21.23.10:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.29-21.23.10:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.29-21.23.10:486][  0]LogD3D11RHI:     GPU DeviceId: 0x1382 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.29-21.23.10:486][  0]LogWindows: EnumDisplayDevices:
+[2017.03.29-21.23.10:486][  0]LogWindows:    0. 'NVIDIA GeForce GTX 745' (P:1 D:1)
+[2017.03.29-21.23.10:486][  0]LogWindows:    1. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2017.03.29-21.23.10:486][  0]LogWindows:    2. 'NVIDIA GeForce GTX 745' (P:0 D:0)
+[2017.03.29-21.23.10:486][  0]LogWindows:    3. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.29-21.23.10:486][  0]LogWindows:    4. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.29-21.23.10:486][  0]LogWindows:    5. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2017.03.29-21.23.10:487][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2017.03.29-21.23.10:487][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 745
+[2017.03.29-21.23.10:487][  0]LogD3D11RHI:   Driver Version: 353.82 (internal:10.18.13.5382, unified:353.82)
+[2017.03.29-21.23.10:487][  0]LogD3D11RHI:      Driver Date: 8-7-2015
+[2017.03.29-21.23.10:487][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.29-21.23.10:499][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.29-21.23.10:511][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.03.29-21.23.10:512][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Intermediate/Shaders/WorkingDirectory/984/).
+[2017.03.29-21.23.10:512][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/D20136~1/AppData/Local/Temp/UnrealShaderWorkingDir/B9AD269C4D9CE92F5F9CB1B6E81B52E1/'.
+[2017.03.29-21.23.10:512][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.29-21.23.11:319][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.29-21.23.11:326][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.29-21.23.11:333][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.29-21.23.11:340][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.29-21.23.11:346][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.29-21.23.11:353][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.29-21.23.11:359][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.29-21.23.11:364][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.29-21.23.11:370][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.29-21.23.11:375][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.29-21.23.11:381][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.29-21.23.11:392][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.29-21.23.11:392][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.29-21.23.11:393][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.29-21.23.11:412][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.29-21.23.11:417][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.29-21.23.11:423][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.29-21.23.11:428][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.29-21.23.11:434][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.29-21.23.11:440][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.29-21.23.11:440][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.29-21.23.11:509][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.29-21.23.11:561][  0]LogDerivedDataCache: Loaded boot cache 0.05s 62MB C:/Users/D201360499/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.29-21.23.11:562][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/D201360499/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.29-21.23.11:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.29-21.23.11:562][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.29-21.23.11:562][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.29-21.23.11:562][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.29-21.23.11:575][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.29-21.23.11:588][  0]LogDerivedDataCache: Using Local data cache path C:/Users/D201360499/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.29-21.23.11:780][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.29-21.23.11:782][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.29-21.23.11:860][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.29-21.23.11:860][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.29-21.23.11:860][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.29-21.23.11:968][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.29-21.23.12:255][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: endlessrunner, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1713714679
+[2017.03.29-21.23.12:289][  0]LogAssetRegistry: FAssetRegistry took 0.0224 seconds to start up
+[2017.03.29-21.23.12:608][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.316627 seconds
+[2017.03.29-21.23.12:612][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.03.29-21.23.12:612][  0]LogUObjectAllocator: 6125456 out of 0 bytes used by permanent object pool.
+[2017.03.29-21.23.12:612][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.29-21.23.12:617][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.29-21.23.12:883][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.29-21.23.12:883][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.29-21.23.13:446][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.29-21.23.13:467][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.29-21.23.13:746][  0]SourceControl: Info Source control is disabled
+[2017.03.29-21.23.13:794][  0]SourceControl: Info Source control is disabled
+[2017.03.29-21.23.13:804][  0]SourceControl: Info Source control is disabled
+[2017.03.29-21.23.13:813][  0]SourceControl: Info Source control is disabled
+[2017.03.29-21.23.14:093][  0]LogEngine: Initializing Engine...
+[2017.03.29-21.23.14:093][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.29-21.23.14:212][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.29-21.23.14:218][  0]LogInit: No audio devices found!
+[2017.03.29-21.23.14:246][  0]LogDerivedDataCache: Saved boot cache 0.03s 62MB C:/Users/D201360499/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.29-21.23.14:253][  0]LogInit: Texture streaming: Enabled
+[2017.03.29-21.23.14:324][  0]LogInit: Transaction tracking system initialized
+[2017.03.29-21.23.14:340][  0]BlueprintLog: New page: Editor Load
+[2017.03.29-21.23.14:543][  0]LocalizationService: Info Localization service is disabled
+[2017.03.29-21.23.14:612][  0]LogConsoleResponse:Display: 
+[2017.03.29-21.23.14:891][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.29-21.23.14:891][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.29-21.23.15:035][  0]SourceControl: Info Source control is disabled
+[2017.03.29-21.23.15:036][  0]Cmd: MAP LOAD FILE="../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.29-21.23.15:681][  0]LogFileCache: Scanning file cache for directory 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/' took 0.74s
+[2017.03.29-21.23.15:681][  0]LightingResults: New page: Lighting Build
+[2017.03.29-21.23.15:683][  0]MapCheck: New page: Map Check
+[2017.03.29-21.23.15:683][  0]LightingResults: New page: Lighting Build
+[2017.03.29-21.23.29:643][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.03.29-21.23.30:189][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.29-21.23.30:202][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.29-21.23.30:242][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 40.256ms to complete.
+[2017.03.29-21.23.30:242][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 15.207
+[2017.03.29-21.23.30:516][  0]LogCollectionManager: Loaded 0 collections in 0.001450 seconds
+[2017.03.29-21.23.30:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/Collections/' took 0.01s
+[2017.03.29-21.23.30:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/Developers/D201360499/Collections/' took 0.01s
+[2017.03.29-21.23.30:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/Collections/' took 0.01s
+[2017.03.29-21.23.30:817][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2017.03.29-21.23.30:859][  0]LogContentBrowser: Native class hierarchy populated in 0.0341 seconds. Added 2141 classes and 415 folders.
+[2017.03.29-21.23.30:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.29-21.23.30:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.29-21.23.30:907][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0016 seconds. Added 12 classes and 0 folders.
+[2017.03.29-21.23.30:935][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.03.29-21.23.32:148][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.03.29-21.23.32:485][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.03.29-21.23.33:386][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.29-21.23.33:694][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.03.29-21.23.33:752][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.03.29-21.23.33:753][  0]LogLoad: (Engine Initialization) Total time: 25.82 seconds
+[2017.03.29-21.23.33:753][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 1.36 seconds
+[2017.03.29-21.23.33:753][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.03.29-21.23.33:762][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.29-21.23.33:762][  0]LogOcInput: OculusInput pre-init called
+[2017.03.29-21.23.33:906][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.29-21.23.34:874][  0]LogRenderer: Reallocating scene render targets to support 1020x944 (Frame:2).
+[2017.03.29-21.23.35:227][  2]LogAssetRegistry: Asset discovery search completed in 22.9602 seconds
+[2017.03.29-21.23.35:227][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.29-21.23.35:227][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2017.03.29-21.23.42:760][441]Cmd: MAP LOAD FILE="../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/RunnerGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.29-21.23.42:784][441]LightingResults: New page: Lighting Build
+[2017.03.29-21.23.42:785][441]LoadErrors: New page: Loading map: RunnerGame.umap
+[2017.03.29-21.23.42:786][441]MapCheck: New page: Map Check
+[2017.03.29-21.23.42:786][441]LightingResults: New page: Lighting Build
+[2017.03.29-21.23.42:858][441]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.23.42:944][441]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.29-21.23.43:002][441]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.29-21.23.43:041][441]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 38.777ms to complete.
+[2017.03.29-21.23.43:041][441]LogFileHelpers: Loading map 'RunnerGame' took 0.281
+[2017.03.29-21.23.45:037][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.23.45:053][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.23.45:104][538]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:23:45 pm)
+[2017.03.29-21.23.45:104][538]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.23.45:105][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2017.03.29-21.23.45:106][538]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.23.45:106][538]LogPlayLevel: PIE: World Init took: (0.000881s)
+[2017.03.29-21.23.45:106][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002621s)
+[2017.03.29-21.23.51:184][538]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.23.51:201][538]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 3) at 2017.03.30-08.23.51
+[2017.03.29-21.23.51:215][538]LogWorld: Bringing up level for play took: 0.001297
+[2017.03.29-21.23.51:334][538]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2017.03.29-21.23.51:334][538]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.23.51:334][538]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.23.51:334][538]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.23.51:635][538]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.23.51:635][538]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 5.909
+[2017.03.29-21.23.51:635][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.23.51:968][539]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064872 > MaxSimulationTimeStep (0.050) for 'RunCharacter_C_0', movement 'Walking'
+[2017.03.29-21.23.51:997][539]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.23.52:269][539]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.24.03:492][647]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.24.03:492][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.24.03:492][647]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:24:03 pm)
+[2017.03.29-21.24.03:492][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.24.03:494][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001485s)
+[2017.03.29-21.24.03:494][647]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.24.03:494][647]LogPlayLevel: PIE: World Init took: (0.000537s)
+[2017.03.29-21.24.03:494][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002174s)
+[2017.03.29-21.24.05:813][647]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.24.05:815][647]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 3) at 2017.03.30-08.24.05
+[2017.03.29-21.24.05:815][647]LogWorld: Bringing up level for play took: 0.001557
+[2017.03.29-21.24.05:816][647]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.24.05:816][647]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.24.05:816][647]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.24.05:839][647]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.24.05:839][647]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 2.113
+[2017.03.29-21.24.05:839][647]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.24.05:856][648]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.077727 > MaxSimulationTimeStep (0.050) for 'RunCharacter_C_0', movement 'Walking'
+[2017.03.29-21.24.38:815][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.24.38:865][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.24.40:023][834]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.24.40:023][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.24.40:023][834]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:24:40 pm)
+[2017.03.29-21.24.40:023][834]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.24.40:024][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001570s)
+[2017.03.29-21.24.40:025][834]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.24.40:025][834]LogPlayLevel: PIE: World Init took: (0.000569s)
+[2017.03.29-21.24.40:025][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002324s)
+[2017.03.29-21.24.40:080][834]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.24.40:082][834]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.24.40
+[2017.03.29-21.24.40:082][834]LogWorld: Bringing up level for play took: 0.001543
+[2017.03.29-21.24.40:083][834]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.24.40:083][834]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.24.40:083][834]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.24.40:093][834]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.24.40:093][834]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.368
+[2017.03.29-21.24.40:093][834]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.27.06:925][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.27.06:976][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.28.00:311][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.28.00:312][528]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.28.00:312][528]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:28:00 pm)
+[2017.03.29-21.28.00:312][528]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.28.00:314][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001833s)
+[2017.03.29-21.28.00:314][528]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.28.00:314][528]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.03.29-21.28.00:314][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002708s)
+[2017.03.29-21.28.00:352][528]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.28.00:355][528]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.28.00
+[2017.03.29-21.28.00:355][528]LogWorld: Bringing up level for play took: 0.001843
+[2017.03.29-21.28.00:356][528]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.28.00:356][528]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.28.00:356][528]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.28.00:368][528]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.28.00:368][528]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.644
+[2017.03.29-21.28.00:368][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.20:654][604]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.20:702][604]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.21:192][630]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.21:193][630]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.29.21:193][630]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:29:21 pm)
+[2017.03.29-21.29.21:193][630]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.29.21:194][630]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001555s)
+[2017.03.29-21.29.21:195][630]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.29.21:195][630]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2017.03.29-21.29.21:195][630]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002349s)
+[2017.03.29-21.29.21:241][630]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.29.21:244][630]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.29.21
+[2017.03.29-21.29.21:244][630]LogWorld: Bringing up level for play took: 0.001306
+[2017.03.29-21.29.21:244][630]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.29.21:244][630]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.29.21:244][630]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.29.21:253][630]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.29.21:254][630]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.471
+[2017.03.29-21.29.21:254][630]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.22:590][687]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.22:680][687]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.23:309][718]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.23:309][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.29.23:309][718]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:29:23 pm)
+[2017.03.29-21.29.23:309][718]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.29.23:310][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001386s)
+[2017.03.29-21.29.23:311][718]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.29.23:311][718]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2017.03.29-21.29.23:311][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002122s)
+[2017.03.29-21.29.23:355][718]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.29.23:358][718]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.29.23
+[2017.03.29-21.29.23:358][718]LogWorld: Bringing up level for play took: 0.001143
+[2017.03.29-21.29.23:359][718]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.29.23:359][718]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.29.23:359][718]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.29.23:372][718]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.29.23:372][718]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.352
+[2017.03.29-21.29.23:373][718]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.25:332][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.25:381][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.25:976][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.25:976][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.29.25:976][846]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:29:25 pm)
+[2017.03.29-21.29.25:976][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.29.25:977][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001337s)
+[2017.03.29-21.29.25:978][846]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.29.25:978][846]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2017.03.29-21.29.25:978][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002119s)
+[2017.03.29-21.29.26:019][846]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.29.26:021][846]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.29.26
+[2017.03.29-21.29.26:021][846]LogWorld: Bringing up level for play took: 0.001210
+[2017.03.29-21.29.26:022][846]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.29.26:022][846]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.29.26:022][846]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.29.26:033][846]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.29.26:033][846]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.308
+[2017.03.29-21.29.26:033][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.26:636][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.29.26:686][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.01:908][388]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 112 classes and 0 folders.
+[2017.03.29-21.30.06:730][665]LogRenderer: Reallocating scene render targets to support 1056x944 (Frame:14499).
+[2017.03.29-21.30.23:691][389]BlueprintLog: New page: Compile RunCharacter
+[2017.03.29-21.30.25:475][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.25:475][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.30.25:475][479]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:30:25 pm)
+[2017.03.29-21.30.25:475][479]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.30.25:476][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001542s)
+[2017.03.29-21.30.25:477][479]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.30.25:477][479]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2017.03.29-21.30.25:477][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002293s)
+[2017.03.29-21.30.25:519][479]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.30.25:522][479]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.30.25
+[2017.03.29-21.30.25:522][479]LogWorld: Bringing up level for play took: 0.001165
+[2017.03.29-21.30.25:523][479]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.25:523][479]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.25:523][479]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.25:536][479]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.25:536][479]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.189
+[2017.03.29-21.30.25:536][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.29:672][682]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.29:726][682]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.37:870][429]BlueprintLog: New page: Compile RunCharacter
+[2017.03.29-21.30.39:619][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.39:619][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.30.39:619][525]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:30:39 pm)
+[2017.03.29-21.30.39:619][525]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.30.39:620][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001607s)
+[2017.03.29-21.30.39:621][525]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.30.39:621][525]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2017.03.29-21.30.39:621][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002381s)
+[2017.03.29-21.30.39:663][525]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.30.39:666][525]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.30.39
+[2017.03.29-21.30.39:666][525]LogWorld: Bringing up level for play took: 0.001360
+[2017.03.29-21.30.39:667][525]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.39:667][525]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.39:667][525]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.39:677][525]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.39:677][525]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.048
+[2017.03.29-21.30.39:677][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.43:717][724]Cmd: restartlevel
+[2017.03.29-21.30.43:743][725]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.29-21.30.43:744][725]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.29-21.30.43:744][725]LogNet: Browse: /Game/RunnerGame?restart
+[2017.03.29-21.30.43:744][725]LogLoad: LoadMap: /Game/RunnerGame
+[2017.03.29-21.30.43:776][725]Cmd: MEM
+[2017.03.29-21.30.43:793][725]LogMemory: Platform Memory Stats for Windows
+[2017.03.29-21.30.43:793][725]LogMemory: Process Physical Memory: 1497.67 MB used, 1548.64 MB peak
+[2017.03.29-21.30.43:793][725]LogMemory: Process Virtual Memory: 2257.26 MB used, 2376.93 MB peak
+[2017.03.29-21.30.43:793][725]LogMemory: Physical Memory: 5185.80 MB used, 16288.05 MB total
+[2017.03.29-21.30.43:793][725]LogMemory: Virtual Memory: 3136.23 MB used, 134217728.00 MB total
+[2017.03.29-21.30.43:793][725]LogMemory: 
+[2017.03.29-21.30.43:793][725]Allocator Stats for TBB: (not implemented)
+[2017.03.29-21.30.43:793][725]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.30.43:795][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001425s)
+[2017.03.29-21.30.43:795][725]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.30.43:795][725]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2017.03.29-21.30.43:795][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002120s)
+[2017.03.29-21.30.43:795][725]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.30.43:798][725]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.30.43
+[2017.03.29-21.30.43:798][725]LogWorld: Bringing up level for play took: 0.001876
+[2017.03.29-21.30.43:799][725]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.43:799][725]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.43:799][725]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.43:810][725]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.43:811][725]LogLoad: Took 0.067008 seconds to LoadMap(/Game/UEDPIE_0_RunnerGame)
+[2017.03.29-21.30.44:253][747]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.44:305][747]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.45:610][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.45:610][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.30.45:610][813]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:30:45 pm)
+[2017.03.29-21.30.45:610][813]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.30.45:611][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001330s)
+[2017.03.29-21.30.45:612][813]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.30.45:612][813]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2017.03.29-21.30.45:612][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002062s)
+[2017.03.29-21.30.45:660][813]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.30.45:662][813]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.30.45
+[2017.03.29-21.30.45:662][813]LogWorld: Bringing up level for play took: 0.001225
+[2017.03.29-21.30.45:663][813]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.45:663][813]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.45:663][813]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.45:676][813]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.45:676][813]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.049
+[2017.03.29-21.30.45:676][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.48:435][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.48:488][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.49:457][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.49:457][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.30.49:458][  3]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:30:49 pm)
+[2017.03.29-21.30.49:458][  3]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.30.49:459][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001474s)
+[2017.03.29-21.30.49:459][  3]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.30.49:460][  3]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2017.03.29-21.30.49:460][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002204s)
+[2017.03.29-21.30.49:503][  3]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.30.49:506][  3]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.30.49
+[2017.03.29-21.30.49:506][  3]LogWorld: Bringing up level for play took: 0.001235
+[2017.03.29-21.30.49:506][  3]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.49:506][  3]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.30.49:506][  3]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.49:519][  3]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.30.49:519][  3]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.206
+[2017.03.29-21.30.49:519][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.56:184][340]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.56:235][340]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.30.58:984][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RunnerGame" FILE="../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/RunnerGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.03.29-21.30.59:472][474]LogSavePackage: Save=114.25ms
+[2017.03.29-21.30.59:472][474]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/RunnerGameA3CD41B5443A9BA43FE5B99625537FF6.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/RunnerGame.umap'
+[2017.03.29-21.30.59:474][474]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/RunnerGame.umap
+[2017.03.29-21.40.59:485][306]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/RunnerGame' took 0.015
+[2017.03.29-21.40.59:539][306]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/RunCharacter] ([1] browsable assets)...
+[2017.03.29-21.40.59:572][306]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/RunCharacter.RunCharacter]
+[2017.03.29-21.40.59:573][306]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/RunCharacter]
+[2017.03.29-21.40.59:646][306]LogSavePackage: Save=62.05ms
+[2017.03.29-21.40.59:646][306]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacter_Auto1A908C6194801556B4ED662B282162D62.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto1.uasset'
+[2017.03.29-21.40.59:658][306]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/RunCharacter_Auto1.uasset
+[2017.03.29-21.40.59:658][306]LogFileHelpers: Auto-saving content packages took 0.154
+[2017.03.29-21.53.11:098][550]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.53.11:098][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.53.11:098][550]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:53:11 pm)
+[2017.03.29-21.53.11:098][550]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.53.11:100][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002158s)
+[2017.03.29-21.53.11:101][550]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.53.11:101][550]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2017.03.29-21.53.11:102][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.003354s)
+[2017.03.29-21.53.11:144][550]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.53.11:147][550]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.53.11
+[2017.03.29-21.53.11:147][550]LogWorld: Bringing up level for play took: 0.001404
+[2017.03.29-21.53.11:148][550]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.53.11:148][550]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.53.11:148][550]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.53.11:158][550]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.53.11:158][550]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.464
+[2017.03.29-21.53.11:158][550]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.53.16:274][797]Cmd: restartlevel
+[2017.03.29-21.53.16:295][798]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.29-21.53.16:295][798]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.29-21.53.16:295][798]LogNet: Browse: /Game/RunnerGame?restart
+[2017.03.29-21.53.16:295][798]LogLoad: LoadMap: /Game/RunnerGame
+[2017.03.29-21.53.16:330][798]Cmd: MEM
+[2017.03.29-21.53.16:341][798]LogMemory: Platform Memory Stats for Windows
+[2017.03.29-21.53.16:341][798]LogMemory: Process Physical Memory: 1469.21 MB used, 1606.73 MB peak
+[2017.03.29-21.53.16:341][798]LogMemory: Process Virtual Memory: 2260.01 MB used, 2409.31 MB peak
+[2017.03.29-21.53.16:341][798]LogMemory: Physical Memory: 5589.76 MB used, 16288.05 MB total
+[2017.03.29-21.53.16:341][798]LogMemory: Virtual Memory: 3129.03 MB used, 134217728.00 MB total
+[2017.03.29-21.53.16:341][798]LogMemory: 
+[2017.03.29-21.53.16:341][798]Allocator Stats for TBB: (not implemented)
+[2017.03.29-21.53.16:341][798]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.53.16:343][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001490s)
+[2017.03.29-21.53.16:343][798]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.53.16:343][798]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2017.03.29-21.53.16:343][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002439s)
+[2017.03.29-21.53.16:344][798]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.53.16:346][798]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.53.16
+[2017.03.29-21.53.16:346][798]LogWorld: Bringing up level for play took: 0.001523
+[2017.03.29-21.53.16:347][798]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.53.16:347][798]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.53.16:347][798]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.53.16:358][798]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.53.16:358][798]LogLoad: Took 0.062877 seconds to LoadMap(/Game/UEDPIE_0_RunnerGame)
+[2017.03.29-21.54.04:849][235]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.54.04:906][235]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.54.28:854][ 44]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.54.29:601][ 54]LogSavePackage: Save=15.36ms
+[2017.03.29-21.54.29:601][ 54]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Jump141D90414221B69154A96FB9DB7B44AF.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.54.29:603][ 54]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-21.54.46:345][635]BlueprintLog: New page: Compile RunGameMode
+[2017.03.29-21.54.46:767][672]LogSavePackage: Save=10.89ms
+[2017.03.29-21.54.46:767][672]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode76FD60FD4382D7217584C3ADA6BF45E8.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.03.29-21.54.46:769][672]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.03.29-21.54.48:224][765]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.54.48:224][765]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.54.48:224][765]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:54:48 pm)
+[2017.03.29-21.54.48:224][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.54.48:226][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001967s)
+[2017.03.29-21.54.48:227][765]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.54.48:227][765]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2017.03.29-21.54.48:227][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002830s)
+[2017.03.29-21.54.48:268][765]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.54.48:270][765]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.54.48
+[2017.03.29-21.54.48:270][765]LogWorld: Bringing up level for play took: 0.001270
+[2017.03.29-21.54.48:271][765]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.54.48:271][765]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.54.48:271][765]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.54.48:283][765]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.54.48:283][765]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.663
+[2017.03.29-21.54.48:283][765]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.55.14:437][ 68]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.55.14:488][ 68]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.55.29:190][366]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.29-21.56.52:444][478]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.56.53:320][509]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.56.53:920][538]LogSavePackage: Save=15.96ms
+[2017.03.29-21.56.53:920][538]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_JumpA05A5EE94E9C0254A9BBC1BF18707A0B.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.56.53:922][538]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-21.56.55:606][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.56.55:606][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.56.55:607][633]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:56:55 pm)
+[2017.03.29-21.56.55:607][633]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.56.55:608][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001623s)
+[2017.03.29-21.56.55:609][633]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.56.55:609][633]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2017.03.29-21.56.55:609][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002430s)
+[2017.03.29-21.56.55:654][633]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.56.55:656][633]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.56.55
+[2017.03.29-21.56.55:657][633]LogWorld: Bringing up level for play took: 0.001223
+[2017.03.29-21.56.55:657][633]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.56.55:657][633]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.56.55:657][633]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.56.55:668][633]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.56.55:668][633]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.052
+[2017.03.29-21.56.55:668][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.01:642][927]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.01:701][927]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.12:742][823]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.29-21.57.13:571][888]LogEditorTransaction: Undo Remove Components
+[2017.03.29-21.57.14:852][993]LogEditorTransaction: Redo Remove Components
+[2017.03.29-21.57.21:687][579]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.57.22:290][579]LogSavePackage: Save=12.68ms
+[2017.03.29-21.57.22:290][579]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_JumpE5FBD70D4E38C8888332EDB1CA874DD0.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.57.22:292][579]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-21.57.22:989][636]LogSavePackage: Save=8.74ms
+[2017.03.29-21.57.22:989][636]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_JumpDC4D9ED947DE4B5A14EFD48703C9638E.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.57.22:991][636]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-21.57.30:493][140]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.57.31:144][169]LogSavePackage: Save=15.00ms
+[2017.03.29-21.57.31:144][169]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Jump550C0F68483653C8C9F1689FCEE3104A.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.57.31:146][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-21.57.32:633][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.32:633][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.57.32:634][258]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:57:32 pm)
+[2017.03.29-21.57.32:634][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.57.32:635][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001475s)
+[2017.03.29-21.57.32:635][258]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.57.32:636][258]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2017.03.29-21.57.32:636][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002247s)
+[2017.03.29-21.57.32:685][258]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.57.32:687][258]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.57.32
+[2017.03.29-21.57.32:687][258]LogWorld: Bringing up level for play took: 0.001197
+[2017.03.29-21.57.32:688][258]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.57.32:688][258]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.57.32:688][258]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.57.32:701][258]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.57.32:701][258]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.914
+[2017.03.29-21.57.32:701][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.37:918][516]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.37:971][516]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.39:431][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.39:431][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-21.57.39:431][590]PIE: New page: PIE session: RunnerGame (30 Mar 2017 6:57:39 pm)
+[2017.03.29-21.57.39:431][590]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-21.57.39:433][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001656s)
+[2017.03.29-21.57.39:433][590]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-21.57.39:433][590]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2017.03.29-21.57.39:433][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002381s)
+[2017.03.29-21.57.39:481][590]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-21.57.39:484][590]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-08.57.39
+[2017.03.29-21.57.39:484][590]LogWorld: Bringing up level for play took: 0.001205
+[2017.03.29-21.57.39:485][590]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.57.39:485][590]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-21.57.39:485][590]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.57.39:496][590]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-21.57.39:496][590]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.119
+[2017.03.29-21.57.39:496][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.55:661][395]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.57.55:715][395]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-21.58.06:912][ 85]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.58.07:482][107]LogSavePackage: Save=15.23ms
+[2017.03.29-21.58.07:482][107]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Jump82C5EDB0410B9614998BBEA0AC59B506.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.58.07:484][107]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-21.58.25:758][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.29-21.58.25:811][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.29-21.58.28:616][542]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_FloorTile_Jump_C_1' or package '/Engine/Transient'.
+[2017.03.29-21.58.28:616][542]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_FloorTile_Jump_C_0' or package '/Engine/Transient'.
+[2017.03.29-21.58.28:616][542]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_BP_FloorTile_Jump_C_259' or package '/Engine/Transient'.
+[2017.03.29-21.58.28:616][542]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_BP_FloorTile_Jump_C_258' or package '/Engine/Transient'.
+[2017.03.29-21.59.09:741][831]LogEditorTransaction: Undo Modify Component(s)
+[2017.03.29-21.59.17:482][ 77]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.59.27:769][382]BlueprintLog: New page: Compile BP_FloorTile_Jump
+[2017.03.29-21.59.28:349][396]LogSavePackage: Save=28.71ms
+[2017.03.29-21.59.28:349][396]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Jump3A27351148C52561F84BC491307A05A4.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset'
+[2017.03.29-21.59.28:351][396]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Jump.uasset
+[2017.03.29-22.00.05:071][476]BlueprintLog: New page: Compile RunGameMode
+[2017.03.29-22.00.30:781][543]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.03.29-22.00.34:784][ 21]BlueprintLog: New page: Compile RunGameMode
+[2017.03.29-22.00.35:283][ 66]LogSavePackage: Save=10.41ms
+[2017.03.29-22.00.35:283][ 66]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/RunGameModeC1BD65A745B3E9B9E7C65A9627B073B6.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.03.29-22.00.35:285][ 66]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.03.29-22.00.37:250][189]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.00.37:251][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-22.00.37:251][189]PIE: New page: PIE session: RunnerGame (30 Mar 2017 7:00:37 pm)
+[2017.03.29-22.00.37:251][189]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-22.00.37:252][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001547s)
+[2017.03.29-22.00.37:253][189]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-22.00.37:253][189]LogPlayLevel: PIE: World Init took: (0.000636s)
+[2017.03.29-22.00.37:253][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002334s)
+[2017.03.29-22.00.37:299][189]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-22.00.37:301][189]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-09.00.37
+[2017.03.29-22.00.37:301][189]LogWorld: Bringing up level for play took: 0.001236
+[2017.03.29-22.00.37:302][189]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.00.37:302][189]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.00.37:302][189]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.00.37:315][189]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.00.37:315][189]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame -0.295
+[2017.03.29-22.00.37:315][189]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.01.22:450][412]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.01.22:505][412]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.01.27:824][512]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.29-22.01.27:938][512]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.RunGameMode_C_2.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.03.29-22.01.27:938][512]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'RunGameMode_C_2' or package '/Engine/Transient'.
+[2017.03.29-22.01.27:938][512]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_BP_FloorTile_Jump_C_285' or package '/Engine/Transient'.
+[2017.03.29-22.01.27:938][512]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_BP_FloorTile_Jump_C_284' or package '/Engine/Transient'.
+[2017.03.29-22.01.27:938][512]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_FloorTile_Jump_C_3' or package '/Engine/Transient'.
+[2017.03.29-22.01.27:938][512]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_BP_FloorTile_Jump_C_2' or package '/Engine/Transient'.
+[2017.03.29-22.01.41:414][956]BlueprintLog: New page: Compile RunGameMode
+[2017.03.29-22.01.41:959][  8]LogSavePackage: Save=10.24ms
+[2017.03.29-22.01.41:959][  8]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/RunGameMode345D84A548D67F670A6975A5F1ED14C7.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset'
+[2017.03.29-22.01.41:961][  8]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunGameMode.uasset
+[2017.03.29-22.01.43:691][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.01.43:691][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-22.01.43:691][138]PIE: New page: PIE session: RunnerGame (30 Mar 2017 7:01:43 pm)
+[2017.03.29-22.01.43:691][138]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-22.01.43:692][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001551s)
+[2017.03.29-22.01.43:693][138]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-22.01.43:693][138]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2017.03.29-22.01.43:693][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002310s)
+[2017.03.29-22.01.43:737][138]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-22.01.43:740][138]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-09.01.43
+[2017.03.29-22.01.43:740][138]LogWorld: Bringing up level for play took: 0.001231
+[2017.03.29-22.01.43:740][138]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.01.43:740][138]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.01.43:740][138]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.01.43:752][138]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.01.43:752][138]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.144
+[2017.03.29-22.01.43:753][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.02.22:453][ 61]Cmd: restartlevel
+[2017.03.29-22.02.22:475][ 62]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.03.29-22.02.22:475][ 62]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.03.29-22.02.22:475][ 62]LogNet: Browse: /Game/RunnerGame?restart
+[2017.03.29-22.02.22:475][ 62]LogLoad: LoadMap: /Game/RunnerGame
+[2017.03.29-22.02.22:511][ 62]Cmd: MEM
+[2017.03.29-22.02.22:523][ 62]LogMemory: Platform Memory Stats for Windows
+[2017.03.29-22.02.22:523][ 62]LogMemory: Process Physical Memory: 2001.89 MB used, 2033.08 MB peak
+[2017.03.29-22.02.22:523][ 62]LogMemory: Process Virtual Memory: 2722.19 MB used, 2943.93 MB peak
+[2017.03.29-22.02.22:523][ 62]LogMemory: Physical Memory: 5732.64 MB used, 16288.05 MB total
+[2017.03.29-22.02.22:523][ 62]LogMemory: Virtual Memory: 3725.41 MB used, 134217728.00 MB total
+[2017.03.29-22.02.22:523][ 62]LogMemory: 
+[2017.03.29-22.02.22:523][ 62]Allocator Stats for TBB: (not implemented)
+[2017.03.29-22.02.22:523][ 62]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-22.02.22:525][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001293s)
+[2017.03.29-22.02.22:525][ 62]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-22.02.22:525][ 62]LogPlayLevel: PIE: World Init took: (0.000594s)
+[2017.03.29-22.02.22:525][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002047s)
+[2017.03.29-22.02.22:525][ 62]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-22.02.22:527][ 62]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-09.02.22
+[2017.03.29-22.02.22:527][ 62]LogWorld: Bringing up level for play took: 0.001198
+[2017.03.29-22.02.22:528][ 62]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.02.22:528][ 62]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.02.22:528][ 62]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.02.22:539][ 62]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.02.22:539][ 62]LogLoad: Took 0.064397 seconds to LoadMap(/Game/UEDPIE_0_RunnerGame)
+[2017.03.29-22.03.33:724][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.03.33:778][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.03.35:793][682]LogSavePackage: Save=35.61ms
+[2017.03.29-22.03.35:793][682]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/RunCharacterBAA1C12F4994293F9B04EF859169D7B0.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset'
+[2017.03.29-22.03.35:795][682]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/RunCharacter.uasset
+[2017.03.29-22.03.35:842][682]LogSavePackage: Save=13.55ms
+[2017.03.29-22.03.35:842][682]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Beam1D227350242870306F43CA0B26FD66C83.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Beam1.uasset'
+[2017.03.29-22.03.35:843][682]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Beam1.uasset
+[2017.03.29-22.03.35:883][682]LogSavePackage: Save=13.43ms
+[2017.03.29-22.03.35:883][682]LogSavePackage: Moving '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/BP_FloorTile_Beam2664619654CEEF8CB4823E89CC342C9A0.tmp' to '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Beam2.uasset'
+[2017.03.29-22.03.35:886][682]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/ThirdPersonBP/Blueprints/BP_FloorTile_Beam2.uasset
+[2017.03.29-22.40.43:582][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.40.43:582][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.29-22.40.43:583][451]PIE: New page: PIE session: RunnerGame (30 Mar 2017 7:40:43 pm)
+[2017.03.29-22.40.43:583][451]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_RunnerGame
+[2017.03.29-22.40.43:584][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001723s)
+[2017.03.29-22.40.43:585][451]LogAIModule: Creating AISystem for world RunnerGame
+[2017.03.29-22.40.43:585][451]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2017.03.29-22.40.43:586][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RunnerGame.RunnerGame to /Game/UEDPIE_0_RunnerGame.RunnerGame (0.002900s)
+[2017.03.29-22.40.43:631][451]LogWorld: Game class is 'RunGameMode_C'
+[2017.03.29-22.40.43:634][451]LogWorld: Bringing World /Game/UEDPIE_0_RunnerGame.RunnerGame up for play (max tick rate 0) at 2017.03.30-09.40.43
+[2017.03.29-22.40.43:634][451]LogWorld: Bringing up level for play took: 0.001810
+[2017.03.29-22.40.43:635][451]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.40.43:635][451]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.29-22.40.43:635][451]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.40.43:647][451]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.29-22.40.43:647][451]PIE: Info Play in editor start time for /Game/UEDPIE_0_RunnerGame 0.016
+[2017.03.29-22.40.43:647][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.41.47:667][688]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.41.47:722][688]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/RunnerGame.RunnerGame:PersistentLevel' has LevelScriptBlueprint '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame' with GeneratedClass '/Game/RunnerGame.RunnerGame_C' with ClassGeneratedBy '/Game/RunnerGame.RunnerGame:PersistentLevel.RunnerGame'
+[2017.03.29-22.54.08:232][933]Cmd: QUIT_EDITOR
+[2017.03.29-22.54.09:086][933]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.29-22.54.09:104][933]LogExit: Preparing to exit.
+[2017.03.29-22.54.10:161][933]LogDirectoryWatcher: A directory notification for 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/' was aborted.
+[2017.03.29-22.54.10:181][933]LogExit: Editor shut down
+[2017.03.29-22.54.10:181][933]LogExit: Transaction tracking system shut down
+[2017.03.29-22.54.10:316][933]LogObj: Freed 0b from 0 cluster array pools.
+[2017.03.29-22.54.10:316][933]LogExit: Object subsystem successfully closed.
+[2017.03.29-22.54.10:332][933]LogD3D11RHI: Shutdown
+[2017.03.29-22.54.10:332][933]LogD3D11RHI: CleanupD3DDevice
+[2017.03.29-22.54.10:409][933]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.03.29-22.54.10:438][933]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (237)
+[2017.03.29-22.54.10:444][933]LogModuleManager: Shutting down and abandoning module BlueprintGraph (236)
+[2017.03.29-22.54.10:444][933]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (235)
+[2017.03.29-22.54.10:453][933]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (234)
+[2017.03.29-22.54.10:453][933]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (233)
+[2017.03.29-22.54.10:453][933]LogModuleManager: Shutting down and abandoning module CrashTracker (232)
+[2017.03.29-22.54.10:453][933]LogModuleManager: Shutting down and abandoning module SceneOutliner (231)
+[2017.03.29-22.54.10:453][933]LogModuleManager: Shutting down and abandoning module WidgetCarousel (230)
+[2017.03.29-22.54.10:453][933]LogModuleManager: Shutting down and abandoning module AddContentDialog (229)
+[2017.03.29-22.54.10:453][933]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.13/FeaturePacks/' was aborted.
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module GameplayTags (228)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module EditorWidgets (227)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module CollectionManager (226)
+[2017.03.29-22.54.10:454][933]LogDirectoryWatcher: A directory notification for 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/Collections/' was aborted.
+[2017.03.29-22.54.10:454][933]LogDirectoryWatcher: A directory notification for 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/Developers/D201360499/Collections/' was aborted.
+[2017.03.29-22.54.10:454][933]LogDirectoryWatcher: A directory notification for 'C:/Users/D201360499/Documents/Unreal Projects/EndlessRunner/Saved/Collections/' was aborted.
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module StatsViewer (225)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module FoliageEdit (224)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module LandscapeEditor (223)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (222)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module ActorPickerMode (221)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module GeometryMode (220)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module TextureAlignMode (219)
+[2017.03.29-22.54.10:454][933]LogModuleManager: Shutting down and abandoning module BspMode (218)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module HardwareSurvey (217)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (216)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module SequenceRecorder (215)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module AutomationWorker (214)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (213)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module PlacementMode (212)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (211)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (210)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (209)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (208)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (207)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module Media (206)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (205)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (204)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module CharacterAI (203)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module SmartSnapping (202)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module SessionServices (201)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module ViewportSnapping (200)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module ViewportInteraction (199)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module LogVisualizer (198)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (197)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module IntroTutorials (196)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (195)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (194)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (193)
+[2017.03.29-22.54.10:455][933]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (192)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (191)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (190)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (189)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module NiagaraEditor (188)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module MergeActors (187)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module SizeMap (186)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module TreeMap (185)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module ReferenceViewer (184)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module LocalizationService (183)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (182)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module HardwareTargeting (181)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (180)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module UndoHistory (179)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module UserFeedback (178)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module XmlParser (177)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module Blutility (176)
+[2017.03.29-22.54.11:383][933]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (175)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (174)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module InputBindingEditor (173)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (172)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module SettingsEditor (171)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module ProjectLauncher (170)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module SessionFrontend (169)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module ProfilerClient (168)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (167)
+[2017.03.29-22.54.11:384][933]LogModuleManager: Shutting down and abandoning module DeviceManager (166)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module AutomationController (165)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module AutomationWindow (164)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module Layers (163)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (162)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module DetailCustomizations (161)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module PackagesDialog (160)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module AnimGraph (159)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module Persona (158)
+[2017.03.29-22.54.11:437][933]LogModuleManager: Shutting down and abandoning module Kismet (157)
+[2017.03.29-22.54.11:441][933]LogModuleManager: Shutting down and abandoning module GraphEditor (156)
+[2017.03.29-22.54.11:441][933]LogModuleManager: Shutting down and abandoning module ClassViewer (155)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module Toolbox (154)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module ModuleUI (153)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module MovieSceneTools (152)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module OutputLog (151)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module GammaUI (150)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module Documentation (149)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module Niagara (148)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (147)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module AnalyticsET (146)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module PortalServices (145)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module PortalRpc (144)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module MessagingRpc (143)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module GameplayDebugger (142)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module AITestSuite (141)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module AIModule (140)
+[2017.03.29-22.54.11:442][933]LogModuleManager: Shutting down and abandoning module ProfilerService (139)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module TaskGraph (138)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module SlateRemote (137)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module SteamVRController (136)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module SteamVR (135)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (134)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (133)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module OculusLibrary (132)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module OculusInput (131)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (130)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module CableComponent (129)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (128)
+[2017.03.29-22.54.11:554][933]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (126)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (124)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module GeometryCache (123)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module AlembicLibrary (122)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module AlembicImporter (121)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module SuperSearch (120)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (119)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (118)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module PluginBrowser (117)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (116)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module EpicSurvey (115)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module DesktopPlatform (114)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (113)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module UObjectPlugin (112)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (111)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (110)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module SourceControl (109)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module GitSourceControl (108)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (107)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (106)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (105)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module MeshPaint (104)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module FbxAutomationBuilderModule (103)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (102)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module HotReload (101)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module MainFrame (100)
+[2017.03.29-22.54.11:555][933]LogModuleManager: Shutting down and abandoning module LevelEditor (99)
+[2017.03.29-22.54.11:556][933]LogModuleManager: Shutting down and abandoning module ContentBrowser (98)
+[2017.03.29-22.54.11:557][933]LogModuleManager: Shutting down and abandoning module Paper2DEditor (97)
+[2017.03.29-22.54.11:557][933]LogModuleManager: Shutting down and abandoning module UdpMessaging (96)
+[2017.03.29-22.54.11:658][933]LogModuleManager: Shutting down and abandoning module TcpMessaging (95)
+[2017.03.29-22.54.11:758][933]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (94)
+[2017.03.29-22.54.11:758][933]LogModuleManager: Shutting down and abandoning module Paper2D (93)
+[2017.03.29-22.54.11:758][933]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (92)
+[2017.03.29-22.54.11:758][933]LogModuleManager: Shutting down and abandoning module WmfMedia (91)
+[2017.03.29-22.54.11:758][933]LogModuleManager: Shutting down and abandoning module MediaAssets (90)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (89)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (88)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module VREditor (87)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (86)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module PropertyEditor (85)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (84)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module FunctionalTesting (83)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (82)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module Sequencer (81)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (80)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module MessageLog (79)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module AssetTools (78)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module UMGEditor (77)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module UMG (76)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module SlateReflector (75)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module Slate (74)
+[2017.03.29-22.54.11:759][933]LogModuleManager: Shutting down and abandoning module EditorStyle (73)
+[2017.03.29-22.54.11:761][933]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (72)
+[2017.03.29-22.54.11:761][933]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (71)
+[2017.03.29-22.54.11:761][933]LogModuleManager: Shutting down and abandoning module XAudio2 (70)
+[2017.03.29-22.54.11:761][933]LogModuleManager: Shutting down and abandoning module Networking (68)
+[2017.03.29-22.54.11:761][933]LogModuleManager: Shutting down and abandoning module Core (67)
+[2017.03.29-22.54.11:761][933]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (66)
+[2017.03.29-22.54.11:761][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.03.29-22.54.11:761][933]LogDirectoryWatcher: A directory notification for '../../../../../../Users/D201360499/Documents/Unreal Projects/EndlessRunner/Content/' was aborted.
+[2017.03.29-22.54.11:761][933]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.03.29-22.54.11:762][933]LogModuleManager: Shutting down and abandoning module AssetRegistry (65)
+[2017.03.29-22.54.11:833][933]LogModuleManager: Shutting down and abandoning module KismetCompiler (64)
+[2017.03.29-22.54.11:833][933]LogModuleManager: Shutting down and abandoning module PhysXFormats (63)
+[2017.03.29-22.54.11:833][933]LogModuleManager: Shutting down and abandoning module MeshUtilities (62)
+[2017.03.29-22.54.11:833][933]LogModuleManager: Shutting down and abandoning module DerivedDataCache (61)
+[2017.03.29-22.54.11:928][933]LogDerivedDataCache: Shutdown
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (60)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (59)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (58)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (57)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (56)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (55)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (54)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (53)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module ImageWrapper (52)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (51)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (50)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (49)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (48)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (47)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (46)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (45)
+[2017.03.29-22.54.11:928][933]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (44)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (43)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (42)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Messaging (41)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (40)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (39)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (38)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (37)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (36)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (35)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (34)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (33)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (32)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (31)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (30)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (29)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (28)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (27)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module GearVR (21)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (20)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (19)
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (17)
+[2017.03.29-22.54.11:929][933]LogOnline:Display: Unloading online subsystem: NULL
+[2017.03.29-22.54.11:929][933]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.03.29-22.54.11:929][933]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.03.29-22.54.11:929][933]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBA07C3C7-4AF5-1F87-6404-8389F9ABDA6A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.13.2-3172292%2B%2B%2BUE4%2BRelease-4.13&UserID=ee4c9f064151f0e61dd2229c514b2280%7C61edceed5d874fefba300e405720e057%7Cd4442bcb-ac0e-4d4c-a5d2-69f7433a6596&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.03.29-22.54.11:951][933]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.03.29-22.54.11:951][933]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.03.29-22.54.11:952][933]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.03.29-22.54.11:952][933]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.03.29-22.54.11:952][933]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.03.29-22.54.11:953][933]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.03.29-22.54.11:955][933]LogExit: Exiting.
+[2017.03.29-22.54.11:957][933]Log file closed, 03/30/17 09:54:11
